@@ -1,3 +1,5 @@
 Archivo de prueba
 
 Mi nombre es Jhon y soy desarrollador del proyecto DIGITRANSCAR
+
+Mi nombre es Alexander Cantillo soy programador 2 del proyecto DIGITRANSCAR
